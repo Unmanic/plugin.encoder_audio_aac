@@ -97,9 +97,9 @@ class Settings(PluginSettings):
 class PluginStreamMapper(StreamMapper):
     def __init__(self):
         super(PluginStreamMapper, self).__init__(logger, ['audio'])
-        self.settings = None
         self.codec = 'aac'
         self.encoder = 'aac'
+        self.settings = None
 
     def set_default_values(self, settings, abspath, probe):
         """
