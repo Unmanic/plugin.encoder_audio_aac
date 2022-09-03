@@ -5,7 +5,7 @@
         2
     ],
     "description": "Ensure all audio streams are encoded with the AAC codec using the native FFmpeg aac encoder.",
-    "icon": "https://raw.githubusercontent.com/Josh5/unmanic.plugin.encoder_audio_aac/master/icon.png",
+    "icon": "https://raw.githubusercontent.com/Unmanic/plugin.encoder_audio_aac/master/icon.png",
     "id": "encoder_audio_aac",
     "name": "Audio Encoder AAC",
     "platform": [
